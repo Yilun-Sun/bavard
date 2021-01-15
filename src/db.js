@@ -2,12 +2,12 @@ import firebase from 'firebase/app';
 import 'firebase/database';
 
 const config = {
-  apiKey: 'AIzaSyBsl7xp7oD7KOK0O0kZpQuqSfH9Uy3WEC4',
-  authDomain: 'bavard.firebaseapp.com',
-  projectId: 'bavard',
-  storageBucket: 'bavard.appspot.com',
-  messagingSenderId: '785951693710',
-  appId: '1:785951693710:web:ff3e1f73d59bd73dace2df',
+  apiKey: 'AIzaSyBP2xiYqQjlcF7DrUBq4DzXbNcPmEyVDLE',
+  authDomain: 'bavard-a2f36.firebaseapp.com',
+  projectId: 'bavard-a2f36',
+  storageBucket: 'bavard-a2f36.appspot.com',
+  messagingSenderId: '79987147613',
+  appId: '1:79987147613:web:f891bc402582e50a1a5eb4',
 };
 
 const db = firebase.initializeApp(config);
